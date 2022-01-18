@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.659f2e67.css",
+    "main.css": "/static/css/main.cdefb7ff.css",
     "main.js": "/static/js/main.b55bf964.js",
     "static/media/ss-stars-1-min.jpg": "/static/media/ss-stars-1-min.46d0e56ba7a1214978dc.jpg",
     "static/media/ss-earth-6-min.jpg": "/static/media/ss-earth-6-min.834934933422e1a610b1.jpg",
     "static/media/ss-mars-1-min.jpg": "/static/media/ss-mars-1-min.36bee941b6b80f7d41dd.jpg",
     "index.html": "/index.html",
-    "main.659f2e67.css.map": "/static/css/main.659f2e67.css.map",
+    "main.cdefb7ff.css.map": "/static/css/main.cdefb7ff.css.map",
     "main.b55bf964.js.map": "/static/js/main.b55bf964.js.map"
   },
   "entrypoints": [
-    "static/css/main.659f2e67.css",
+    "static/css/main.cdefb7ff.css",
     "static/js/main.b55bf964.js"
   ]
 }
